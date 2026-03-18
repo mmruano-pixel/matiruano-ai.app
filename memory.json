@@ -1,0 +1,17 @@
+{
+  "name": "John Doe",
+  "preferred_language": "English",
+  "interests": [
+    "hiking",
+    "golf",
+    "wine tasting",
+    "road biking"
+  ],
+  "communication_style": "direct",
+  "favorite_topics": [
+    "music",
+    "travel",
+    "history"
+  ],
+  "result": 1697664975
+}
